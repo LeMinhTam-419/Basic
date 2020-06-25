@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="user_name">user name</string>
+    <string name="register">REGISTER</string>
+    <string name="todo1">todo1</string>
+    <string name="done1">done1</string>
+    <string name="imp">import</string>
+    <string name="pass_word">pass word</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="Login">LOGIN</string>
+    <string name="log_out">Log Out</string>
+    <string name="tam_le">leminhtam14dt3@gmail.com</string>
+    <string name="nick_name">Nick Name</string>
+    <string name="todo_content">Todo Content</string>
+    <string name="edit_todo">EDIT TODO</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="actionbar_title_home_page">home page</string>
 </resources>
