@@ -7,4 +7,9 @@
     <color name="pimary_btn">#FFFFFF</color>
     <color name="colorRed">#FF0000</color>
     <color name="pimary_account">#30be76</color>
+    <color name="invalid_name">#010101</color>
+    <color name="white">#FFFFFF</color>
+
+
+
 </resources>

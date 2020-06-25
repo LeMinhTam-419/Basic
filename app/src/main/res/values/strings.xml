@@ -36,4 +36,12 @@
     <string name="textview_text_step_1">Step 1</string>
     <string name="textview_text_step_3">Step 3</string>
     <string name="textview_text_step_2">Step 2</string>
+    <string name="textview_inbox">Inbox</string>
+    <string name="textview_send">Send</string>
+    <string name="textview_trash">Trash</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Close</string>
+    <string name="textview_spam">Spam</string>
+    <string name="mail">tamle@gmail.com</string>
+    <string name="tam_le">Tam Le</string>
 </resources>
